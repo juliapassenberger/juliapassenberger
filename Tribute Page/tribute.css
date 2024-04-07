@@ -18,7 +18,7 @@ section {
 /* Styling the header section including the image, nav and overlaying text. */
 h1 {
     font-family: cursive;
-    font-size: 7rem;
+    font-size: 6.5rem;
     text-align: center;
     margin: 0;
     padding: 10px 20px;
@@ -33,10 +33,15 @@ header {
     color: rgb(46, 46, 86);
 }
 
+#para1 {
+    font-size: 2.5rem;
+
+}
+
 .cover {
     display: flex;
     height: 80vh;
-    background-image: url("beethoven/notes.jpg");
+    background-image: url("images/notes.jpg");
     background-size: cover;
     margin: 0;
     margin-bottom: 0.8rem;
